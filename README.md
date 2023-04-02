@@ -1,3 +1,3 @@
 # Minijuego-Encuentra_a_Totoro
 
-Mdiante CSS puro se creo un mini juego donde el jugador tendra que hacer click a los Totoros cada que salgan a la vista.
+Mediante CSS puro se creo un mini juego donde el jugador tendra que hacer click a los Totoros cada que salgan a la vista.
